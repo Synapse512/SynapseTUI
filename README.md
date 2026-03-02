@@ -1,3 +1,5 @@
+Note: THIS PROJECT IS NOT FINISHED. MANY PARTS ARE HEAVILY SUBJECT TO CHANGE, AND CURRENT ONES ARE NOT CONSIDERED COMPLETE.
+
 Synapse:
 Synapse is a TUI (Terminal User Interface) programmed in Windows PowerShell.
 It serves as a platform in Powershell, allowing you to utilize it while also serving features from Synapse to enhance your experience.
