@@ -27,4 +27,4 @@ Tips:
 - You can use your up and down keys to go to previous commands you typed
 - You can use Powershell cmdlets in Synapse
 - If you are missing a Synapse component (find from diagnostics), try redownloading
-  and replacing your copy from: https://github.com/Synapse512/Synapse
+  and replacing your copy from: https://github.com/Synapse512/SynapseTUI
