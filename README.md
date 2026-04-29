@@ -1,5 +1,6 @@
-Note: THIS PROJECT IS NOT FINISHED. MANY PARTS ARE HEAVILY SUBJECT TO CHANGE, AND CURRENT ONES ARE NOT CONSIDERED COMPLETE.
+Note: This was originally released on 12/11/25 for a Technical Science project. It is not very polished, and was reuploaded on 4/29/26. It is not considered to be a finished product, nor has any plans to be finished. 
 
+---
 Synapse:
 Synapse is a TUI (Terminal User Interface) programmed in Windows PowerShell.
 It serves as a platform in Powershell, allowing you to utilize it while also serving features from Synapse to enhance your experience.
