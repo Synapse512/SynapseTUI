@@ -286,7 +286,7 @@ function createPlaylist {
     return $entry
 }
 
-#$kanye = createAudio -path "C:\Users\5223293797\Music\AsapRocky\AT.LONG.LAST.ASAP\09. Jukebox Joints (Feat. Joe Fox & Kanye West).mp3" -volume 1
+#$kanye = createAudio -path "C:\Music\AsapRocky\AT.LONG.LAST.ASAP\09. Jukebox Joints (Feat. Joe Fox & Kanye West).mp3" -volume 1
 #playAudio -id $kanye.Id
 
 function music {
