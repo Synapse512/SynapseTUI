@@ -512,7 +512,7 @@ function games {
     write-host ""
     Write-Host "blockGameFunCool: " -ForegroundColor $data_ThemeColor
     Write-Host "blockgameFunCool" -ForegroundColor White -NoNewline; Write-Host " - runs the coolest game ever made" -ForegroundColor DarkGray
-    Write-Host "Made by: " -ForegroundColor DarkGray -NoNewLine; Write-Host "Water890909" 
+    Write-Host "Made by: " -ForegroundColor DarkGray -NoNewLine; Write-Host "Synapse512" 
 
     Write-Host ""
     Write-Host "________________________________________" -ForegroundColor Darkgray
@@ -795,7 +795,7 @@ function help {
     Write-Host "Tips:" -ForegroundColor $data_ThemeColor
     Write-Host "- You can use your up and down keys to go to previous commands you typed" -ForegroundColor Darkgray
     Write-Host "- You can use Powershell cmdlets in Synapse" -ForegroundColor Darkgray
-    Write-Host "- If you are missing a Synapse component (find from diagnostics), try redownloading" -ForegroundColor Darkgray; Write-Host "  and replacing your copy from: https://github.com/water890909/Synapse" -ForegroundColor DarkGray
+    Write-Host "- If you are missing a Synapse component (find from diagnostics), try redownloading" -ForegroundColor Darkgray; Write-Host "  and replacing your copy from: https://github.com/Synapse512/Synapse" -ForegroundColor DarkGray
     Write-Host "________________________________________" -ForegroundColor Darkgray
     Write-Host ""
     write-host ""
